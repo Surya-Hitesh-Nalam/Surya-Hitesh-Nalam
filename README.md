@@ -1,4 +1,4 @@
-[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/zainwen9)
+[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/Surya-Hitesh-Nalam)
 <h1 align="center">Hi 👋, I'm Surya Hitesh Nalam</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
