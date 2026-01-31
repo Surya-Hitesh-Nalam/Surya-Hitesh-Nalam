@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on [**Shuriken**](https://github.com/Surya-Hitesh-Nalam/Shuriken-LMS)  
+- 🔭 I’m currently working on [**hive**](https://github.com/Surya-Hitesh-Nalam/Shuriken-LMS)  
 - 🌱 I’m currently learning **AI Agents, Next.js, TypeScript**  
 - 📫 Reach me at **suryanalam1234@gmail.com**
 
